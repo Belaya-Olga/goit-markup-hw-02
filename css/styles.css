@@ -1,0 +1,70 @@
+body { font-family: "Roboto", sans-serif;
+  }
+  ul {
+    text-decoration: none;
+  }
+  header {
+    background-color: #E7E9FC;
+  }
+
+.logo { 
+    color: #4D5AE5;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 21px;
+}
+.logo-part {
+color: #2E2F42;
+font-family: "Raleway", sans-serif;
+}
+
+.nav:hover{
+    color: #4D5AE5;
+}
+.nav.nav-link.studio:active {
+    text-decoration: underline;
+}
+.nav.nav-link {
+    color: #2E2F42;
+    font-weight: 600;
+    font-size: 16px;
+}
+.tel {
+    font-size: 16px;
+    font-weight: 400;
+    color: #434455;
+}
+.head {
+    background-color: #2E2F42;
+}
+.main-header {
+    font-weight: 600;
+    font-size: 56px;
+    color: #FFFFFF;
+    }
+    .button {
+        color: #FFFFFF;
+        background-color: #4D5AE5;
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .button:hover {
+        color: #FFFFFF;
+            background-color:#404BBF;
+            font-size: 16px;
+            font-weight: 400;
+    }
+    h3 {
+        font-size: 20px;
+        font-weight: 600;
+    }
+p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #434455;
+}
+.ad-link {
+    font-size: 16px;
+        font-weight: 400;
+        color: #434455;
+}
