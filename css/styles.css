@@ -1,70 +1,86 @@
-body { font-family: "Roboto", sans-serif;
+body { font-family: 'Verdana', 'Tahoma'. "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
   }
-  ul {
+  a {
     text-decoration: none;
   }
-  header {
-    background-color: #E7E9FC;
+  ul {
+    list-style-type: none;
   }
-
 .logo { 
     color: #4D5AE5;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 21px;
+    line-height: 2.1;
 }
 .logo-part {
 color: #2E2F42;
 font-family: "Raleway", sans-serif;
 }
-
-.nav:hover{
+.nav li {
+    font-size: 16px;
+    font-weight: 600;
+    color: #2E2F42;
+    line-height: 2.4;
+}
+.nav a:hover{
     color: #4D5AE5;
 }
-.nav.nav-link.studio:active {
+.studio:active {
     text-decoration: underline;
+    color: #4D5AE5;
 }
-.nav.nav-link {
-    color: #2E2F42;
-    font-weight: 600;
-    font-size: 16px;
-}
-.tel {
-    font-size: 16px;
-    font-weight: 400;
+.address a {
     color: #434455;
+    font-size: 16px;
+    line-height: 2.4;
+  
 }
-.head {
+.address a:hover{
+    color: #4D5AE5;
+}
+.main-header{
     background-color: #2E2F42;
+
 }
-.main-header {
-    font-weight: 600;
+.main-header h1{
     font-size: 56px;
+    font-weight: 800;
     color: #FFFFFF;
-    }
-    .button {
-        color: #FFFFFF;
-        background-color: #4D5AE5;
-        font-size: 16px;
-        font-weight: 400;
-    }
-    .button:hover {
-        color: #FFFFFF;
-            background-color:#404BBF;
-            font-size: 16px;
-            font-weight: 400;
-    }
-    h3 {
-        font-size: 20px;
-        font-weight: 600;
-    }
-p {
-    font-size: 16px;
-    font-weight: 400;
-    color: #434455;
+    line-height: 6;
 }
-.ad-link {
+.button {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
     font-size: 16px;
-        font-weight: 400;
-        color: #434455;
+    cursor: pointer;
+    line-height: 2.4;
+}
+.button:hover {
+    background-color: #404BBF;
+}
+.team {
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 2.4;
+}
+.apps {
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 2.4;
+   }
+.second-header {
+    color: #2E2F42;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 4;
+}
+.text {
+    font-size: 16px;
+    line-height: 2.4;
+    color: #434455;
 }
