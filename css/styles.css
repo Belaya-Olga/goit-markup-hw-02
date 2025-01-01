@@ -40,7 +40,8 @@ font-family: "Raleway", sans-serif;
 }
 .nav-main:hover,
 .nav-main:focus {
-    color: #4D5AE5;
+    color: #404bbf;
+
 }
 .studio:hover,
 .studio:focus
@@ -49,7 +50,7 @@ font-family: "Raleway", sans-serif;
 }
 
 .nav-main .studio:active {
-    color: #4D5AE5;
+    color: #404bbf;
     text-decoration: underline;
 }
 .contacts {
@@ -89,7 +90,9 @@ font-family: "Raleway", sans-serif;
     letter-spacing: 0.04em;
     cursor: pointer;
 }
-.order:hover,
+.order:hover {
+background-color: #404BBF;
+}
 .order:focus {
     background-color: #404BBF;
 }
