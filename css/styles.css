@@ -61,9 +61,11 @@ font-family: "Raleway", sans-serif;
     color: #434455;
     letter-spacing: 0.02em;
 }
-.contacts .cont-link:hover,
-.contacts .cont-link:focus
+.contacts .cont-link:hover
  {
+    color: #404bbf;
+ }
+ .contacts .cont-link:focus {
     color: #404bbf;
  }
 .first {
@@ -99,6 +101,13 @@ font-family: "Raleway", sans-serif;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2em;
+    letter-spacing: 0.02em;
+}
+.value-text {
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5em;
     letter-spacing: 0.02em;
 }
 .text {
