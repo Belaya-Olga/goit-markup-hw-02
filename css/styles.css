@@ -96,9 +96,7 @@ background-color: #404BBF;
 .order:focus {
     background-color: #404BBF;
 }
-.second {
-    background-color: ;
-}
+
 .value-header {
     color: #2e2f42;
     font-size: 20px;
@@ -106,7 +104,7 @@ background-color: #404BBF;
     line-height: 1.2em;
     letter-spacing: 0.02em;
 }
-.value-text {
+.second .value-text {
     color: #434455;
     font-size: 16px;
     font-weight: 400;
@@ -138,7 +136,7 @@ background-color: #404BBF;
 .team {
     color:#2E2F42;
     font-size: 20px;
-     font-weight: 500;
+    font-weight: 500;
     line-height: 1.2em;
     letter-spacing: 0.02em;
 }
