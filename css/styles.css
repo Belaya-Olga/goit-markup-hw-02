@@ -42,8 +42,8 @@ font-family: "Raleway", sans-serif;
 .nav-main:focus {
     color: #4D5AE5;
 }
-.nav-main .studio:hover,
-.nav-main .studio:focus
+.studio:hover,
+.studio:focus
  {
     color: #404bbf;
 }
@@ -111,7 +111,7 @@ font-family: "Raleway", sans-serif;
     letter-spacing: 0.02em;
 }
 .text {
-    color: #434455;
+    color: #2e2f42;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5em;
