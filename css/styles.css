@@ -45,7 +45,7 @@ font-family: "Raleway", sans-serif;
 .nav-main .studio:hover,
 .nav-main .studio:focus
  {
-    color: #4D5AE5;
+    color: #404bbf;
 }
 
 .nav-main .studio:active {
@@ -58,7 +58,7 @@ font-family: "Raleway", sans-serif;
 .contacts .cont-link {
     font-size: 16px;
     line-height: 1.5em;
-    color: #2E2F42;
+    color: #434455;
     letter-spacing: 0.02em;
 }
 .contacts .cont-link:hover,
@@ -146,7 +146,7 @@ font-family: "Raleway", sans-serif;
     text-align: center;
     text-transform: capitalize;
 }
-footer {
+.foot {
     background-color: #2E2F42;
 }
 .text-two {
